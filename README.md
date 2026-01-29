@@ -17,9 +17,9 @@ This project is a **Social Links Profile** challenge from Frontend Mentor. It is
 ---
 
 ## Live Demo
-[Solution URL] https://github.com/fikki008/social-links-profile.git 
+[Solution URL](https://github.com/fikki008/social-links-profile.git) 
 
-[Live Site URL](https://yourusername.github.io/social-links-profile/)  
+[Live Site URL](https://fikki-social-link-profile.netlify.app/)
 
 
 ---
